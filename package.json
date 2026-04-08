@@ -1,0 +1,23 @@
+{
+  "name": "mi_primer_api",
+  "version": "1.0.0",
+  "description": "clase 08-04 desarrollo",
+  "homepage": "https://github.com/gabutox/mi_primer_api#readme",
+  "bugs": {
+    "url": "https://github.com/gabutox/mi_primer_api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabutox/mi_primer_api.git"
+  },
+  "license": "MIT",
+  "author": "Gabriel Alaniz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
